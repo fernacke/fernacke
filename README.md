@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fernanda</h1>
 
 - ☕ I’m currently learning to code in Java;
-- 💻 I’m currently learning HTML5 and CSS3;
+- 💻 I’m currently learning HTML5, CSS3 and JavaScript;
 - 📚 I'm currently studying Systems Analysis and Development at a local college;
 - 🤓 I’m looking for inspiration to build my knowledge.
 
