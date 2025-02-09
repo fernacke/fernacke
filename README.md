@@ -9,6 +9,4 @@
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,html,css,javascript,java)
 
-[Visit my Portfolio](https://fernacke.github.io/Portfolio/)
-
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frbnck)
