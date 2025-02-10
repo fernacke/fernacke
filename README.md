@@ -9,4 +9,10 @@
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,html,css,javascript,java)
 
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernacke&theme=tokyonight)
+
+<br>
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frbnck)
