@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Fernanda</h1>
 
 - 📚 I'm currently studying Systems Analysis and Development at a local college;
-- 🐘 I’m currently learning to code in PHP;
 - 🤓 I’m looking for inspiration to build my knowledge.
 
 <h3 align="left">Languages and Tools</h3>
