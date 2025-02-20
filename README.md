@@ -1,11 +1,13 @@
-<h1 align="center">Hi, I'm Fernanda</h1>
+<h1 align="center">Olá, sou a Fernanda</h1>
 
-- 📚 I'm currently studying Systems Analysis and Development at a local college;
-- 🤓 I’m looking for inspiration to build my knowledge.
+- 💻 Estou em transição de carreira, migrando da área da saúde para a de tecnologia;
+- 📚 Estudo Análise e Desenvolvimento de Sistemas;
+- 💾 Estes são meus principais projetos;
+- 🤓 Estou em busca de inspiração para construir meu conhecimento.
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Linguagens e Ferramentas</h3>
 
-![My Skills](https://skillicons.dev/icons?i=git,github,html,css,javascript,php)
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,javascript)
 
 <br>
 
