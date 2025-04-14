@@ -1,9 +1,8 @@
 <h1 align="center">Olá, sou a Fernanda</h1>
 
-- 💻 Estou em transição de carreira, migrando da área da saúde para a de tecnologia;
-- 📚 Estudo Análise e Desenvolvimento de Sistemas;
-- 💾 Estes são meus principais projetos;
-- 🤓 Estou em busca de inspiração para construir meu conhecimento.
+- 💻 Em transição de carreira, migrando da área da saúde para a de tecnologia;
+- 📚 Estudante Análise e Desenvolvimento de Sistemas;
+- 💾 Estes são meus principais projetos.
 
 <h3 align="left">Linguagens e Ferramentas</h3>
 
