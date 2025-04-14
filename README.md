@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou a Fernanda</h1>
 
-- 💻 Em transição de carreira, migrando da área da saúde para a de tecnologia
+- 💻 Em transição de carreira, migrando da área da Saúde para a de Tecnologia
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
 - 💾 Estes são meus principais projetos
 
