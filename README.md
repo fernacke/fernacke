@@ -1,8 +1,8 @@
 <h1 align="center">Olá, sou a Fernanda</h1>
 
-- 💻 Em transição de carreira, migrando da área da Saúde para a de Tecnologia
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas
-- 💾 Estes são meus principais projetos
+- Estou em transição de carreira, migrando da área da Saúde para a de Tecnologia
+- Estudo de Análise e Desenvolvimento de Sistemas
+- Estes são meus projetos
 
 <h3 align="left">Linguagens e Ferramentas</h3>
 
@@ -13,5 +13,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernacke&theme=tokyonight)
 
 <br>
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frbnck)
