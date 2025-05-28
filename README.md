@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou a Fernanda</h1>
 
 - Estou em transição de carreira, migrando da área da Saúde para a de Tecnologia
-- Estudo de Análise e Desenvolvimento de Sistemas
+- Estudo Análise e Desenvolvimento de Sistemas
 - Estes são meus projetos
 
 <h3 align="left">Linguagens e Ferramentas</h3>
