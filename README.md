@@ -1,5 +1,7 @@
 <h1 align="center">Olá, sou a Fernanda</h1>
 
+<br>
+
 - Estou em transição de carreira, migrando da área da Saúde para a de Tecnologia
 - Estudo Análise e Desenvolvimento de Sistemas
 - Estes são meus projetos
@@ -11,5 +13,3 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernacke&theme=tokyonight)
-
-<br>
