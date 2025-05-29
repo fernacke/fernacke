@@ -2,9 +2,7 @@
 
 <br>
 
-- Estou em transição de carreira, migrando da área da Saúde para a de Tecnologia
-- Estudo Análise e Desenvolvimento de Sistemas
-- Estes são meus projetos
+Estes são meus projetos.
 
 <h3 align="left">Linguagens e Ferramentas</h3>
 
