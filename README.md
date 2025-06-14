@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Olá, sou a Fernanda</h1>
 
-<!--
-**fernacke/fernacke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- Registro aqui a evolução dos meus aprendizados.
+- Busco inspiração e conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Ferramentas</h3>
+
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea)
+
+<h3 align="left">Linguagens</h3>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,c,javascript,java)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernacke&theme=tokyonight)
