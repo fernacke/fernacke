@@ -1,9 +1,12 @@
 <h1 align="center">Olá, sou a Fernanda</h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="gitCat" width="150" />
+</div>
+
 <br>
 
-- Registro aqui a evolução dos meus aprendizados.
-- Busco inspiração e conhecimento.
+Registro aqui a evolução dos meus aprendizados, busco inspiração e construo conhecimento.
 
 <h3 align="left">Ferramentas</h3>
 
